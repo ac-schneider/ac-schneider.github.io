@@ -1836,8 +1836,8 @@ input, select, textarea {
 	}
 
 		.feature-list section {
-			border-top: solid 1px #eee;
-			padding-top: 3em;
+			border-top: solid 0px #eee;
+			padding-top: 0em;
 			padding-left: 5em;
 			position: relative;
 		}
